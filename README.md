@@ -2,7 +2,7 @@
 
 Oi! Sou uma profissional em transição para a área de Análise de Dados, buscando transformar informações em soluções estratégicas.
 
-Atualmente, estou me aprofundando em ferramentas como SQL, Python, AWS, Power BI e Excel Avançado, por meio de cursos profissionalizantes na EBAC e Hashtag Treinamentos.
+Atualmente, estou me aprofundando em ferramentas como SQL, Python, Power BI e Excel Avançado, por meio de cursos profissionalizantes na EBAC e Hashtag Treinamentos.
 
 Nos últimos meses, desenvolvi habilidades importantes:
 
@@ -43,9 +43,7 @@ Estudando fundamentos de Ciência de Dados e Big Data para atuar em análises ma
       <img src="https://img.shields.io/badge/mysql-2F2F2F.svg?style=for-the-badge&logo=mysql&logoColor=FF1493" />
   </a>
       <img src="https://img.shields.io/badge/python-2F2F2F?style=for-the-badge&logo=python&logoColor=FF1493" />
-  </a>
-      <img src="https://img.shields.io/badge/AWS-2F2F2F.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF1493" />
-  </a>
+   </a>
       <img src="https://img.shields.io/badge/power_bi-2F2F2F?style=for-the-badge&logo=powerbi&logoColor=FF1493" />
   </a>
       <img src="https://img.shields.io/badge/Microsoft_Excel-2F2F2F?style=for-the-badge&logo=microsoft-excel&logoColor=FF1493" />
