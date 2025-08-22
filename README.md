@@ -32,7 +32,7 @@ Estudando fundamentos de Ciência de Dados e Big Data para atuar em análises ma
   <a href="https://github.com/soarestayna/github-readme-stats">
       <img height="150" src="https://github-readme-stats.vercel.app/api?username=soarestayna&hide=contribs,issues&rank_icon=github&theme=radical" />
   </a>
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soarestayna&layout=compact&theme=radical" />
+    
 </div>
 <p></p>
 <div align="center">
