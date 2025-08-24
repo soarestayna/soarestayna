@@ -6,19 +6,19 @@ Atualmente, estou me aprofundando em ferramentas como SQL, Python, Power BI e Ex
 
 Nos últimos meses, desenvolvi habilidades importantes:
 
-✅ Manipulação e análise de dados com SQL.
+- Manipulação e análise de dados com SQL.
 
-✅ Automatização de tarefas e análise exploratória com Python.
+- Automatização de tarefas e análise exploratória com Python.
 
-✅ Criação de dashboards interativos no Power BI.
+- Criação de dashboards interativos no Power BI.
 
-✅ Organização e visualização de dados com Excel Avançado.
+- Organização e visualização de dados com Excel Avançado.
 
 Também concluí cursos focados em Inteligência Emocional e Comunicação Eficaz, essenciais para trabalhar de forma colaborativa e estratégica.
 
 Atualmente sigo praticando e consolidando meus conhecimentos, buscando participar de projetos, resolver desafios de dados e contribuir com a comunidade.
 
-🚀 Em constante evolução:
+Em constante evolução:
 
 Aprofundando a prática com bancos de dados relacionais.
 
@@ -26,7 +26,7 @@ Desenvolvendo projetos de visualização de dados.
 
 Estudando fundamentos de Ciência de Dados e Big Data para atuar em análises mais complexas.
 
-🤝 Aberta a conexões e colaborações!
+Aberta a conexões e colaborações!
 <p></p>
 <div align="center">
   <a href="https://github.com/soarestayna/github-readme-stats">
