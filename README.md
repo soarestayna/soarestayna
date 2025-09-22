@@ -58,7 +58,7 @@ Aberta a conexões e colaborações!
   <a href="https://www.linkedin.com/in/tayn%C3%A1-soares-4394ba150/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto=soarestaynaa@gmail.com" target="_blank">
+  <a href="mailto=soares.tayna@outlook.com" target="_blank">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a herf="https://www.instagram.com/eutaysoares/" target="blank">
