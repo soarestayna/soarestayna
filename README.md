@@ -2,7 +2,7 @@
 
 Oi! Sou uma profissional em transição para a área de Análise de Dados, buscando transformar informações em soluções estratégicas.
 
-Atualmente, estou me aprofundando em ferramentas como SQL, Python, Power BI e Excel Avançado, por meio de cursos profissionalizantes na EBAC e Hashtag Treinamentos.
+Atualmente curso Análise de Dados (Power BI, SQL, Excel e Python) e Cibersegurança pela JA Brasil (Mulher Digital) em parceria com a Cisco Networking Academy, fortalecendo minha capacidade de investigar inconsistências, analisar indicadores e prevenir fraudes
 
 Nos últimos meses, desenvolvi habilidades importantes:
 
