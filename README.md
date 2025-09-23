@@ -16,7 +16,7 @@ Nos últimos meses, desenvolvi habilidades importantes:
 
 Também concluí cursos focados em Inteligência Emocional e Comunicação Eficaz, essenciais para trabalhar de forma colaborativa e estratégica.
 
-Atualmente sigo praticando e consolidando meus conhecimentos, buscando participar de projetos, resolver desafios de dados e contribuir com a comunidade.
+E sigo praticando e consolidando meus conhecimentos, buscando participar de projetos, resolver desafios de dados e contribuir com a comunidade.
 
 Em constante evolução:
 
