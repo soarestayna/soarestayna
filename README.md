@@ -1,30 +1,38 @@
 <h3>Sobre mim</h3>
 
-Oi! Sou uma profissional em transição para a área de Análise de Dados, buscando transformar informações em soluções estratégicas.
+Olá, eu sou a Tayná Soares!
+🛡️ Técnico de Cibersegurança | Analista de Dados Orientado à Defesa
+Sou uma profissional dedicada à proteção da integridade de dados e à segurança de ativos digitais, com foco em análise técnica e mitigação de riscos. Utilizo uma abordagem orientada a dados para investigar anomalias, antecipar ameaças e fortalecer perímetros de rede em ambientes complexos.
 
-Atualmente curso Análise de Dados (Power BI, SQL, Excel e Python) e Cibersegurança pela JA Brasil (Mulher Digital) em parceria com a Cisco Networking Academy, fortalecendo minha capacidade de investigar inconsistências, analisar indicadores e prevenir fraudes
+Certificações de Destaque
+Cisco Certified Support Technician (CCST) – Cybersecurity
 
-Nos últimos meses, desenvolvi habilidades importantes:
+Cyber Academy FEBRABAN (Blue Team, Red Team, GRC e DevSecOps)
 
-- Manipulação e análise de dados com SQL.
+Cisco Specialized: Threat Management, Network Defense & Endpoint Security
 
-- Automatização de tarefas e análise exploratória com Python.
+Atuação Técnica e Diferenciais
+Minha atuação une a Fundamentação Técnica em Cibersegurança com a precisão da Análise de Dados. Tenho facilidade em interpretar logs complexos e fluxos de rede para identificar vulnerabilidades e responder a incidentes com resolutividade.
 
-- Criação de dashboards interativos no Power BI.
+Monitoramento e Detecção: Identificação proativa de ameaças e anomalias sistêmicas.
 
-- Organização e visualização de dados com Excel Avançado.
+Investigação Analítica: Uso de Python e SQL para automatizar a triagem de alertas e correlacionar eventos de segurança.
 
-Também concluí cursos focados em Inteligência Emocional e Comunicação Eficaz, essenciais para trabalhar de forma colaborativa e estratégica.
+Governança e Riscos: Aplicação de conceitos de GRC e conformidade (LGPD) em processos de segurança.
 
-E sigo praticando e consolidando meus conhecimentos, buscando participar de projetos, resolver desafios de dados e contribuir com a comunidade.
+Tecnologias e Ferramentas
+Segurança: SIEM, Firewalls, IPS/IDS, Proteção de Endpoint e Protocolos de Rede (TCP/IP).
 
-Em constante evolução:
+Dados: Python (Pandas/NumPy), SQL (PostgreSQL/MySQL), Excel Avançado e Power BI.
 
-Aprofundando a prática com bancos de dados relacionais.
+Operação: Gestão de Playbooks, Triagem de Incidentes e Análise de Malware.
 
-Desenvolvendo projetos de visualização de dados.
+Projetos e Formação em Andamento
+Projeto WALL-E (Humans): Estudo de vulnerabilidades em Agentes de IA Autônomos e riscos de injeção de prompt (Parceria EBAC & Semantix).
 
-Estudando fundamentos de Ciência de Dados e Big Data para atuar em análises mais complexas.
+Analista de Dados: Especialização em manipulação de grandes volumes de dados para suporte à decisão (EBAC).
+
+Programa Mulher Digital: Desenvolvimento contínuo em Cibersegurança e Redes (Cisco / Kyndryl).
 
 Aberta a conexões e colaborações!
 <p></p>
