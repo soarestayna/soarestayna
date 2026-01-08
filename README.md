@@ -1,38 +1,41 @@
 <h3>Sobre mim</h3>
 
-Olá, eu sou a Tayná Soares!
-🛡️ Técnico de Cibersegurança | Analista de Dados Orientado à Defesa
-Sou uma profissional dedicada à proteção da integridade de dados e à segurança de ativos digitais, com foco em análise técnica e mitigação de riscos. Utilizo uma abordagem orientada a dados para investigar anomalias, antecipar ameaças e fortalecer perímetros de rede em ambientes complexos.
+# Olá, eu sou a Tayná Soares!
 
-Certificações de Destaque
-Cisco Certified Support Technician (CCST) – Cybersecurity
+### 🛡️ Técnico de Cibersegurança | Analista de Dados Orientado à Defesa
 
-Cyber Academy FEBRABAN (Blue Team, Red Team, GRC e DevSecOps)
+Sou uma profissional dedicada à proteção da integridade de dados e à segurança de ativos digitais, com foco em **análise técnica e mitigação de riscos**. Utilizo uma abordagem orientada a dados para investigar anomalias, antecipar ameaças e fortalecer perímetros de rede em ambientes complexos.
 
-Cisco Specialized: Threat Management, Network Defense & Endpoint Security
+---
 
-Atuação Técnica e Diferenciais
-Minha atuação une a Fundamentação Técnica em Cibersegurança com a precisão da Análise de Dados. Tenho facilidade em interpretar logs complexos e fluxos de rede para identificar vulnerabilidades e responder a incidentes com resolutividade.
+### Certificações de Destaque
+* **Cisco Certified Support Technician (CCST) – Cybersecurity**
+* **Cyber Academy FEBRABAN** (Blue Team, Red Team, GRC e DevSecOps)
+* **Cisco Specialized:** Threat Management, Network Defense & Endpoint Security
 
-Monitoramento e Detecção: Identificação proativa de ameaças e anomalias sistêmicas.
+---
 
-Investigação Analítica: Uso de Python e SQL para automatizar a triagem de alertas e correlacionar eventos de segurança.
+### Atuação Técnica e Diferenciais
+Minha atuação une a **Fundamentação Técnica** em Cibersegurança com a precisão da **Análise de Dados**. Tenho facilidade em interpretar logs complexos e fluxos de rede para identificar vulnerabilidades e responder a incidentes com resolutividade.
 
-Governança e Riscos: Aplicação de conceitos de GRC e conformidade (LGPD) em processos de segurança.
+* **Monitoramento e Detecção:** Identificação proativa de ameaças e anomalias sistêmicas.
+* **Investigação Analítica:** Uso de Python e SQL para automatizar a triagem de alertas e correlacionar eventos de segurança.
+* **Governança e Riscos:** Aplicação de conceitos de GRC e conformidade (LGPD) em processos de segurança.
 
-Tecnologias e Ferramentas
-Segurança: SIEM, Firewalls, IPS/IDS, Proteção de Endpoint e Protocolos de Rede (TCP/IP).
+---
 
-Dados: Python (Pandas/NumPy), SQL (PostgreSQL/MySQL), Excel Avançado e Power BI.
+### Tecnologias e Ferramentas
+* **Segurança:** SIEM, Firewalls, IPS/IDS, Proteção de Endpoint e Protocolos de Rede (TCP/IP).
+* **Dados:** Python (Pandas/NumPy), SQL (PostgreSQL/MySQL), Excel Avançado e Power BI.
+* **Operação:** Gestão de Playbooks, Triagem de Incidentes e Análise de Malware.
 
-Operação: Gestão de Playbooks, Triagem de Incidentes e Análise de Malware.
+---
 
-Projetos e Formação em Andamento
-Projeto WALL-E (Humans): Estudo de vulnerabilidades em Agentes de IA Autônomos e riscos de injeção de prompt (Parceria EBAC & Semantix).
+### Projetos e Formação em Andamento
+* **Projeto WALL-E (Humans):** Estudo de vulnerabilidades em Agentes de IA Autônomos e riscos de injeção de prompt (Parceria EBAC & Semantix).
+* **Analista de Dados:** Especialização em manipulação de grandes volumes de dados para suporte à decisão (EBAC).
+* **Programa Mulher Digital:** Desenvolvimento contínuo em Cibersegurança e Redes (Cisco / Kyndryl).
 
-Analista de Dados: Especialização em manipulação de grandes volumes de dados para suporte à decisão (EBAC).
-
-Programa Mulher Digital: Desenvolvimento contínuo em Cibersegurança e Redes (Cisco / Kyndryl).
 
 Aberta a conexões e colaborações!
 <p></p>
